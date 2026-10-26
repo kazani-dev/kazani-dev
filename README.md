@@ -23,7 +23,7 @@ I have developed pretty strict standards on what I want in code (and I try to fo
 - Expressive types to make error states unrepresentable
 - Message-based concurrency ([Actors](https://en.wikipedia.org/wiki/Actor_model))
 
-I will be disappointed in you if you use neural networks for anything other than information extraction / processing (y'know, like we've been using them for like 20 years before everyone went insane and decided that relying on weighted random number generators to think for them is a good idea). I doubt I have to worry about it here, but **don't send me AI-generated content.**
+I will be disappointed in you if you use neural networks for anything other than information extraction / processing (y'know, like we've been using them for like 20 years before everyone went insane and decided that relying on weighted random number generators to think for them is a good idea). **Don't send me AI-generated content.**
 
 **Programming Languages**:
 - (Favorites): Rust, Python, Nix, and TypeScript
