@@ -1,10 +1,19 @@
-### Hi there, my name is Kazani
-I like working on random CS things and sometimes web stuff.
+### Hello!
 
-Languages: Python, C++, Rust, Elixir, TS
+I am a Computer Science student that loves thinking about CS concepts like programming language design and machine learning.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14639101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/R2Boyo25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/HP7yM4AA6V)  
+It doesn't look like I do much but that's mostly because I work on a project, get demotivated, and then switch to something else and never post my WiP code as I usually wait until it's to a good enough state to publish before putting it here…
+
+I have developed pretty strict standards on what I want in code (and I try to follow them myself), like:
+- Detailed naming (no single-letter variable names or abbreviations)
+- Expressive types to make error states unrepresentable
+- Message-based concurrency ([Actors](https://en.wikipedia.org/wiki/Actor_model))
+
+**Programming Languages**:
+- (Favorites): Rust, Python, and TypeScript
+- (Used): C++, C, JavaScript, Elixir, Gleam
+
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R2Boyo25" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R2Boyo25" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazani-dev" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazani-dev" />
 </div>
