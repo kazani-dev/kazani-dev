@@ -16,6 +16,9 @@ I have developed pretty strict standards on what I want in code (and I try to fo
 - (Favorites): Rust, Python, and TypeScript
 - (Used): C++, C, JavaScript, Elixir, Gleam
 
+**Tools:**
+- (Favorites): NixOS, Nix, Docker
+
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazani-dev" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazani-dev" />
